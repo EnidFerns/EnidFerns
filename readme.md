@@ -1,20 +1,24 @@
 ## Hi, I'm Enid 👋
 
-MSc Data Science @ University of Bath (avg. 79.4%) · Data Scientist @ Johnson Matthey
+MSc Data Science | Data Scientist | Software Engineer
 
-I build end-to-end ML systems — from messy time-series data to production-ready models that actually influence decisions. Background in Computer Engineering, two years of industry experience, and a habit of caring about whether the model is *useful*, not just accurate.
+University of Bath · Former Data Scientist at Johnson Matthey · Former Software Engineer at Persistent Systems
+
+I enjoy building data-driven solutions to real-world problems, from understanding complex industrial processes to developing interactive machine learning applications. I have nearly two years of industry experience across data science and software engineering, with a background in Computer Engineering.
 
 ---
 
-### 🔬 Currently working on
-- Predictive modelling and anomaly detection for industrial processes @ Johnson Matthey (Azure ML, MLflow, DVC)
-- MSc coursework: Bayesian Learning, Reinforcement Learning, Applied Data Science
+### 🔬 Experience & Research
+
+**Johnson Matthey:** Industrial process analytics, time-series modelling, predictive modelling, unsupervised fault detection and reproducible ML workflows.
+**Persistent Systems:** Backend development, REST APIs, databases, federated learning and software automation.
+**MSc Dissertation:** Developed and evaluated an adaptive origami tutorial using real-time computer vision and markerless fold-state recognition.
 
 ### 🛠 Tech stack
-**ML/DS:** Python · Scikit-learn · TensorFlow · XGBoost · SHAP · PCA · UMAP · BERTopic  
+**ML/DS:** Python · Scikit-learn · TensorFlow · XGBoost · PyTorch · SHAP · PCA · UMAP · BERTopic  
 **MLOps:** MLflow · DVC · Optuna · Azure ML · Git  
-**Data:** Pandas · NumPy · SQL · PostgreSQL  
-**Other:** FastAPI · Docker · React · OpenCV
+**Data & Analytics:** Pandas · NumPy · SQL · PostgreSQL · Matplotlib · Power BI  
+**Other:** FastAPI · Docker · React · OpenCV · FastAPI · REST APIs
 
 ---
 
@@ -28,5 +32,11 @@ I build end-to-end ML systems — from messy time-series data to production-read
 
 ---
 
+### 🌱 Currently Exploring
+Commercial analytics, business intelligence, end-to-end ML pipelines and football analytics.
+
+---
+
+📫 Get in Touch
 ### 📫 Get in touch
 [LinkedIn](https://www.linkedin.com/in/enid-fernandes-a06b5918b/) · enid.fernandes14@gmail.com
