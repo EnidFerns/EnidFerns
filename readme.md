@@ -11,7 +11,9 @@ I enjoy building data-driven solutions to real-world problems, from understandin
 ### 🔬 Experience & Research
 
 **Johnson Matthey:** Industrial process analytics, time-series modelling, predictive modelling, unsupervised fault detection and reproducible ML workflows.
+
 **Persistent Systems:** Backend development, REST APIs, databases, federated learning and software automation.
+
 **MSc Dissertation:** Developed and evaluated an adaptive origami tutorial using real-time computer vision and markerless fold-state recognition.
 
 ### 🛠 Tech stack
@@ -37,6 +39,5 @@ Commercial analytics, business intelligence, end-to-end ML pipelines and footbal
 
 ---
 
-📫 Get in Touch
 ### 📫 Get in touch
 [LinkedIn](https://www.linkedin.com/in/enid-fernandes-a06b5918b/) · enid.fernandes14@gmail.com
