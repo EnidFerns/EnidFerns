@@ -1,3 +1,4 @@
+
 ## Hi, I'm Enid 👋
 
 MSc Data Science | Data Scientist | Software Engineer
@@ -10,34 +11,37 @@ I enjoy building data-driven solutions to real-world problems, from understandin
 
 ### 🔬 Experience & Research
 
-**Johnson Matthey:** Industrial process analytics, time-series modelling, predictive modelling, unsupervised fault detection and reproducible ML workflows.
+**Johnson Matthey:** Industrial process analytics, time-series analysis, predictive modelling, unsupervised fault detection and reproducible ML workflows.
 
 **Persistent Systems:** Backend development, REST APIs, databases, federated learning and software automation.
 
 **MSc Dissertation:** Developed and evaluated an adaptive origami tutorial using real-time computer vision and markerless fold-state recognition.
 
-### 🛠 Tech stack
-**ML/DS:** Python · Scikit-learn · TensorFlow · XGBoost · PyTorch · SHAP · PCA · UMAP · BERTopic  
-**MLOps:** MLflow · DVC · Optuna · Azure ML · Git  
-**Data & Analytics:** Pandas · NumPy · SQL · PostgreSQL · Matplotlib · Power BI  
-**Other:** FastAPI · Docker · React · OpenCV · FastAPI · REST APIs
+### 🛠 Tech Stack
+
+**ML/DS:** Python · scikit-learn · TensorFlow · XGBoost · PyTorch · SHAP · PCA · UMAP · BERTopic · Optuna  
+**MLOps:** MLflow · DVC · Azure ML · Git  
+**Data & Analytics:** pandas · NumPy · SQL · PostgreSQL · Matplotlib · seaborn · Power BI  
+**Software Engineering:** FastAPI · Docker · React · OpenCV · REST APIs
 
 ---
 
-### 📌 Featured projects
+### 📌 Featured Projects
 
 | Project | What it does | Stack |
 |---|---|---|
-| [CNN Age & Gender Estimation](https://github.com/EnidFerns/Age-Estimation-and-Gender-Classification) | Multi-task CNN (custom + VGG16 fine-tuned) for age regression and gender classification on facial images | TensorFlow, OpenCV, Keras |
-| [3D Drone Combat RL](https://github.com/EnidFerns/Drone-Navigation-in-Combat-Scenarios) | Custom SAC agent trained in a PyBullet 3D environment with obstacle avoidance and enemy engagement. Compared SAC vs DDPG vs TD3. | PyTorch, PyBullet, Gym |
-| [Consumer Behaviour Analysis](https://github.com/EnidFerns/Data-Analysis-work) | Hypothesis-driven analysis of Tesco Grocery 1.0 dataset + London education data, with stakeholder-ready visualisations | Python, Scipy, Matplotlib |
+| [CNN Age Estimation & Gender Classification](https://github.com/EnidFerns/Age-Estimation-and-Gender-Classification) | Compared a custom multi-task CNN with a fine-tuned VGG16 model for age estimation and classification of dataset-provided gender labels. | TensorFlow, OpenCV, Keras |
+| [3D Drone Navigation & Reinforcement Learning](https://github.com/EnidFerns/Drone-Navigation-in-Combat-Scenarios) | Developed and evaluated a custom SAC agent in a simulated 3D PyBullet environment. Also compared SAC, DDPG and TD3 on the Pendulum benchmark. | PyTorch, PyBullet, Gym |
+| [Consumer Behaviour Analysis – Tesco](https://github.com/EnidFerns/Consumer-Behaviour-Analysis-Tesco) | Investigated seasonal and regional grocery purchasing patterns and associations with educational attainment, supported by stakeholder-ready visualisations. | Python, pandas, Matplotlib, seaborn |
 
 ---
 
 ### 🌱 Currently Exploring
+
 Commercial analytics, business intelligence, end-to-end ML pipelines and football analytics.
 
 ---
 
-### 📫 Get in touch
-[LinkedIn](https://www.linkedin.com/in/enid-fernandes-a06b5918b/) · enid.fernandes14@gmail.com
+### 📫 Get in Touch
+
+[LinkedIn](https://www.linkedin.com/in/enid-fernandes-a06b5918b/) · [Email](mailto:enid.fernandes14@gmail.com)
