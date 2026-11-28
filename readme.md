@@ -38,7 +38,7 @@ I enjoy building data-driven solutions to real-world problems, from understandin
 
 ### 🌱 Currently Exploring
 
-Commercial analytics, business intelligence, end-to-end ML pipelines and football analytics.
+Commercial analytics and end-to-end ML pipelines.
 
 ---
 
