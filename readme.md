@@ -32,7 +32,7 @@ I enjoy building data-driven solutions to real-world problems, from understandin
 |---|---|---|
 | [CNN Age Estimation & Gender Classification](https://github.com/EnidFerns/Age-Estimation-and-Gender-Classification) | Compared a custom multi-task CNN with a fine-tuned VGG16 model for age estimation and classification of dataset-provided gender labels. | TensorFlow, OpenCV, Keras |
 | [3D Drone Navigation & Reinforcement Learning](https://github.com/EnidFerns/Drone-Navigation-in-Combat-Scenarios) | Developed and evaluated a custom SAC agent in a simulated 3D PyBullet environment. Also compared SAC, DDPG and TD3 on the Pendulum benchmark. | PyTorch, PyBullet, Gym |
-| [Consumer Behaviour Analysis – Tesco](https://github.com/EnidFerns/Consumer-Behaviour-Analysis-Tesco) | Investigated seasonal and regional grocery purchasing patterns and associations with educational attainment, supported by stakeholder-ready visualisations. | Python, pandas, Matplotlib, seaborn |
+| [Retail Analytics & Consumer Purchasing Behaviour](https://github.com/EnidFerns/Consumer-Behaviour-Analysis-Tesco) | Investigated seasonal and regional grocery purchasing patterns and associations with educational attainment, supported by visualisations targeted towards students. | Python, pandas, Matplotlib, seaborn |
 
 ---
 
